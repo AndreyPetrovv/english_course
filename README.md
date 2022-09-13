@@ -1,2 +1,2 @@
-# english_course
+# English course
 Yandex practicum english course
